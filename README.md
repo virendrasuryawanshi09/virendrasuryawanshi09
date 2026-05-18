@@ -1,6 +1,6 @@
 <h1 align="center">Virendra Suryawanshi</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=00CFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+%7C+MERN+Stack+%7C+DSA;Building+Scalable+Full+Stack+Applications;Focused+on+Clean+Architecture+and+Backend+Engineering" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Software+Developer;" />
 </p>
 
 
@@ -144,15 +144,15 @@
 ## Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/virendra-suryawanshi805">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="YOUR_PORTFOLIO">
+  <a href="https://virendra-suryawanshi.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:virendrasuryawanshi805@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
