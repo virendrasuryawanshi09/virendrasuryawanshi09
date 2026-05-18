@@ -30,6 +30,20 @@
 
 ---
 
+## Experience
+
+
+### Software Trainee Intern — MPACER Solutions Pvt. Ltd.
+
+- Contributed to the development and maintenance of full stack web applications using modern frontend and backend technologies
+- Worked on responsive user interface development, API integration, and backend functionality implementation
+- Collaborated on real-world application workflows involving authentication systems, database operations, and dynamic dashboards
+- Assisted in debugging, performance optimization, and feature enhancement across multiple modules
+- Gained hands-on experience with scalable project structures, version control workflows, and production-oriented development practices
+- Participated in improving application usability, code maintainability, and frontend–backend communication
+- Worked closely with development teams to understand software engineering practices, modular architecture, and deployment workflows
+---
+
 ## Technical Skills
 
 ### Programming Languages
@@ -70,24 +84,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
-### Core Concepts
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-0A192F?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OOPs-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DBMS-4CAF50?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Operating_Systems-FF7043?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Computer_Networks-8E24AA?style=for-the-badge" />
-</p>
 
 ---
-
-## Problem Solving
-
-- Strong understanding of Data Structures & Algorithms
-- Regularly solving algorithmic problems focused on optimization and scalable logic building
-- Experienced with arrays, recursion, trees, graphs, dynamic programming, and backend-oriented problem solving
   
-## Engineering Highlights
+## Highlights
 
 - Solved DSA problems focused on arrays, trees, recursion, graphs, and dynamic programming
 
@@ -119,24 +119,6 @@
   <img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=virendrasuryawanshi09&theme=github_dark" />
 </p>
 
-<p align="center">
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=virendrasuryawanshi09&theme=github_dark" />
-  
-  <img width="44%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=virendrasuryawanshi09&theme=github_dark" />
-</p>
-
-## Experience
-
-
-### Software Trainee Intern — MPACER Solutions Pvt. Ltd.
-
-- Contributed to the development and maintenance of full stack web applications using modern frontend and backend technologies
-- Worked on responsive user interface development, API integration, and backend functionality implementation
-- Collaborated on real-world application workflows involving authentication systems, database operations, and dynamic dashboards
-- Assisted in debugging, performance optimization, and feature enhancement across multiple modules
-- Gained hands-on experience with scalable project structures, version control workflows, and production-oriented development practices
-- Participated in improving application usability, code maintainability, and frontend–backend communication
-- Worked closely with development teams to understand software engineering practices, modular architecture, and deployment workflows
 
 ---
 
