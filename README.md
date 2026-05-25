@@ -13,9 +13,6 @@
   Building scalable full stack applications with clean architecture, efficient backend systems, and production-focused engineering.
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=virendrasuryawanshi09&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
 
 ---
 
